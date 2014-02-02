@@ -17,23 +17,21 @@ Cheers,
 Tony Pujals  
 [@subfuzion](https://twitter.com/subfuzion)
 
-## Accessing Presentations
-
-The presentations are in README.md files and can be read directly or they can be viewed using **[revealme](https://github.com/yanatan16/revealme)**, a hosted, open source, presentation viewer based on [reveal.js](https://github.com/hakimel/reveal.js/). 
-
-For example, the February, 2014, presentation can be viewed by adding the repo path (including branch) to the revealme app on Heroku:  
-
-    (master) tonypujals/nodehackers/2014-02/README.md
-    
-=>  http://revealme.herokuapp.com/tonypujals/nodehackers/master/2014-02/README.md
-
-This page itself can be viewed at:
-
-http://revealme.herokuapp.com/tonypujals/nodehackers
 
 ## License
 
 All original content hosted in this repository is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/) attributable to Tony Pujals.
 
 Unless otherwise indicated, all code is under [MIT License](https://raw2.github.com/tonypujals/nodehackers/master/LICENSE).
+
+
+## Presentations
+
+The presentations are in README.md files and can be read directly or they can be viewed using **[revealme](https://github.com/yanatan16/revealme)**, a hosted, open source, presentation viewer based on [reveal.js](https://github.com/hakimel/reveal.js/). Just add the repo path (including branch) to the revealme app on Heroku, as shown in the following links:
+
+This page:  
+http://revealme.herokuapp.com/tonypujals/nodehackers
+
+February 2014 Meetup  
+http://revealme.herokuapp.com/tonypujals/nodehackers/master/2014-02/README.md
 
