@@ -8,11 +8,12 @@ horizOnly: false
 Dynamic Introduction to the Node Stack
 ======================================
 
+**Node Hackers at Hacker Dojo**  
+Meetup Presentation  
+http://www.meetup.com/Node-Hackers-at-Hacker-Dojo/
+
 **Tony Pujals**  
 [@subfuzion](https://twitter.com/subfuzion)
-
-**Node Hackers at Hacker Dojo** Meetup Presentation  
-http://www.meetup.com/Node-Hackers-at-Hacker-Dojo/
 
 Getting the Presentation and Samples
 ------------------------------------
