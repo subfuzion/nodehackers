@@ -14,6 +14,9 @@ Tony Pujals
 Presentation and samples:  
 https://github.com/tonypujals/nodehackers
 
+The presentation can viewed using revealme:
+http://revealme.herokuapp.com/tonypujals/nodehackers/master/2014-02/README.md
+
 Introduction
 ------------
 
