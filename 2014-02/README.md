@@ -1,6 +1,6 @@
 <!-- revealme options
 title: Node Hackers at Hacker Dojo - Dynamic Introduction to the Node stack
-theme: night
+theme: serif
 transition: concave
 horizOnly: false
 -->
