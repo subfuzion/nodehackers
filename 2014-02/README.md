@@ -1,8 +1,8 @@
 <!-- revealme options
 title: Node Hackers at Hacker Dojo - Dynamic Introduction to the Node stack
-theme: solarized
-transition: default
-
+theme: serif
+transition: concave
+horizOnly: false
 -->
 
 Dynamic Introduction to the Node Stack
