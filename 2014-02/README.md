@@ -1,8 +1,8 @@
 <!-- revealme options
 title: Node Hackers at Hacker Dojo - Dynamic Introduction to the Node stack
-theme: default
-transition: concave
-horizOnly: false
+theme: solarized
+transition: default
+
 -->
 
 Dynamic Introduction to the Node Stack
@@ -43,7 +43,7 @@ What We'll Cover
  * Introduce Mocha for unit testing
  * Build a REST API
  * Add Mongo support
- * Deploy to a Node PaaS
+ * Deploy to a Cloud hosting provider (Node PaaS)
  * Node background and future
  * Q&A
 
@@ -55,7 +55,7 @@ Lots of options
 
  * Download an installer from http://nodejs.org/
  * Build from source: https://github.com/joyent/node
- * Use a cloud development environment
+ * Use a cloud development environment, such as
     * Cloud9 (https://c9.io/)
     * Nitrous (https://www.nitrous.io/)
 
