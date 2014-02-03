@@ -30,7 +30,6 @@ Introduction
 
 No long-winded intro:
 
- * You're already here, so you already have an interest in Node
  * This will be a whirlwind introduction to the Node stack -- we'll dive right in
  * I'll explain why Node is interesting and relevant as we go
  * I'll talk about Node's background and why it's future is so exciting AFTERWARDS -- ***if you liked what you saw, you'll want to stick around***
@@ -61,4 +60,8 @@ Lots of options
     * Nitrous (https://www.nitrous.io/)
 
 *For this presentation, I'll use*  ***Cloud9***  *to make it easy for everyone to follow*
+
+Cloud9
+------
+
 
