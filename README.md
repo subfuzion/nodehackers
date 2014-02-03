@@ -1,7 +1,7 @@
 <!-- revealme options
 title: Node Hackers at Hacker Dojo - Dynamic Introduction to the Node stack
 theme: serif
-transition: concave
+transition: default
 horizOnly: true
 -->
 
