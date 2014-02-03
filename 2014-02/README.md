@@ -64,4 +64,10 @@ Lots of options
 Cloud9
 ------
 
+http://c9.io
 
+* A cloud-hosted development environment
+* Includes terminal access to your workspace vm
+* Create an account or just log in with GitHub account
+* Create workspaces from scratch or by cloning GitHub projects
+* 
