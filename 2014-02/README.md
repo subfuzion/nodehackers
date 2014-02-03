@@ -30,7 +30,7 @@ Introduction
 
 No long-winded intro --
 
- * This will be a whirlwind introduction to the Node stack -- we'll dive right in
+ * This will be a whirlwind orientation to the Node stack -- we'll dive right in
  * I'll explain why Node is interesting and relevant as we go
  * I'll talk about Node's background and why it's future is so exciting AFTERWARDS -- ***if you liked what you saw, you'll want to stick around***
 
