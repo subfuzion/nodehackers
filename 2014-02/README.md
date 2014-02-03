@@ -28,7 +28,7 @@ http://revealme.herokuapp.com/tonypujals/nodehackers/master/2014-02/README.md
 Introduction
 ------------
 
-No long-winded intro:
+No long-winded intro --
 
  * This will be a whirlwind introduction to the Node stack -- we'll dive right in
  * I'll explain why Node is interesting and relevant as we go
