@@ -1,12 +1,12 @@
 <!-- revealme options
 title: Node Hackers at Hacker Dojo - Dynamic Introduction to the Node stack
-theme: serif
+theme: default 
 transition: default
-horizOnly: true
+horizOnly: false
 -->
 
 Node Hackers at Hacker Dojo
-===========================
+---------------------------
 
 This is the repo for Node.js presentations and sample code for the [Node Hackers at Hacker Dojo meetup](http://www.meetup.com/Node-Hackers-at-Hacker-Dojo/). It is organized into directories for each meetup.
 
