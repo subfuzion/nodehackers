@@ -9,20 +9,20 @@ horizOnly: false
 Dynamic Introduction to the Node Stack
 ======================================
 
-**Node Hackers at Hacker Dojo**  
-Meetup Presentation  
+**Node Hackers at Hacker Dojo**
+Meetup Presentation
 http://www.meetup.com/Node-Hackers-at-Hacker-Dojo/
 
-**Tony Pujals**  
+**Tony Pujals**
 [@subfuzion](https://twitter.com/subfuzion)
 
 Getting the Presentation and Samples
 ------------------------------------
 
-**GitHub**  
+**GitHub**
 https://github.com/tonypujals/nodehackers
 
-The presentation can viewed online using **[revealme](https://github.com/yanatan16/revealme)**  
+The presentation can viewed online using **[revealme](https://github.com/yanatan16/revealme)**
 http://revealme.herokuapp.com/tonypujals/nodehackers/master/2014-02/README.md
 
 Introduction
@@ -66,8 +66,11 @@ Cloud9
 
 http://c9.io
 
-* A cloud-hosted development environment
-* Includes terminal access to your workspace vm
-* Create an account or just log in with GitHub account
-* Create workspaces from scratch or by cloning GitHub projects
-* 
+ * A cloud-hosted development environment
+ * Includes terminal access to your workspace vm
+ * Create an account or just log in with GitHub account
+ * Create workspaces from scratch or by cloning GitHub projects
+ * Out-of-the-box support for a number of stacks and tools; for our purposes
+   * Node
+   * Mongo
+   * Git
