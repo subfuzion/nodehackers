@@ -75,8 +75,8 @@ http://c9.io
    * Mongo
    * Git
 
-Cloud9 Demo
------------
+Quick Cloud9 & Node  Demo
+-------------------------
 
 ![Cloud9 logo](https://raw.github.com/tonypujals/nodehackers/master/2014-02/images/logo_cloud9.png)
 
